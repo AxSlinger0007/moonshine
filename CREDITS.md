@@ -11,7 +11,7 @@ Moonshine is a game built using Construct 3.
 - **Built With:** Construct 3
 
 ## Copyright
-© 2026 AxSlinger0007. All rights reserved for original game code and original materials, except where otherwise stated.
+© 2026 AxSlinger0007. All rights reserved for original game code, game name (Moonshine) and original materials, except where otherwise stated.
 
 Third-party assets, including CC0 artwork, remain subject to their respective licences. This notice does not claim ownership of third-party materials.
 
